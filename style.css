@@ -12,7 +12,7 @@ html,body {
 /*}*/
 
 #about {
-    background: url("sit from far copy.jpg") no-repeat center center fixed;
+    background: url("pics/sit from far copy.jpg") no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
@@ -51,7 +51,7 @@ html,body {
     color: azure;
 }
 #fixed-hobbies {
-    background: url("ski background.jpg") no-repeat center center fixed;
+    background: url("pics/pics/ski background.jpg") no-repeat center center fixed;
     display: table;
     height: 30%;
     position: relative;
@@ -69,7 +69,7 @@ html,body {
 }
 
 #fixed-project {
-    background: url("gaming-background.jpg") no-repeat center center fixed;
+    background: url("pics/gaming-background.jpg") no-repeat center center fixed;
     display: table;
     height: 30%;
     position: relative;
@@ -146,7 +146,7 @@ html,body {
 }
 
 #fixed-edu {
-    background: url("edu-fixed.jpg") no-repeat center center fixed;
+    background: url("pics/edu-fixed.jpg") no-repeat center center fixed;
     display: table;
     height: 30%;
     position: relative;
@@ -192,7 +192,7 @@ html,body {
     color: #f0ffff;
 }
 #fixed-contact {
-    background: url("email pic.jpg") no-repeat center center fixed;
+    background: url("pics/email pic.jpg") no-repeat center center fixed;
     display: table;
     height: 30%;
     position: relative;
