@@ -1,0 +1,7 @@
+https://startbootstrap.com/snippets/full-image-background 
+used for fixed background images
+
+https://getbootstrap.com/docs/5.0/components/carousel/
+used for carousel component
+
+I used more from the bootstrap website like the navbar
