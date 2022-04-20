@@ -1,1 +1,1 @@
-go to https://nivnisanov.github.io/niv.nisanov-hw6/
+go to https://nivnisanov.github.io/niv.nisanov-website/
